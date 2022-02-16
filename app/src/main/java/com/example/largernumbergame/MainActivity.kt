@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
         val rightNumber = binding.buttonR.text.toString().toInt()
         val isAnswerCorrect: Boolean = if (isLeftButton) leftNumber > rightNumber else rightNumber > leftNumber
         if (isAnswerCorrect) {
-            binding.backgroundView.setBackgroundColor(Color.GREEN)
+            binding.backgroundView.setBackgroundColor(Color.CYAN)
 
             Toast.makeText(this, "Correct", Toast.LENGTH_SHORT).show()
         } else {
