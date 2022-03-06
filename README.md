@@ -23,7 +23,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://j.gifs.com/083RPv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with gifs.com.
 
 ## Notes
 
